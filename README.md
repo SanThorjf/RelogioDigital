@@ -1,1 +1,4 @@
-Alteração no readme para descrever melhor meu sistema.
+Projeto Relógio Digital.
+
+Este projeto foi criado com:
+HTML, CSS e Javascript.
